@@ -1,0 +1,433 @@
+(dp0
+VRisks and Consequences of Cloud Computing
+p1
+(dp2
+Vindex
+p3
+I6
+sVcontents
+p4
+(lp5
+(dp6
+Vurl
+p7
+V/cp/courses/lesson/course/597/lesson/1/module/73
+p8
+sVtitle
+p9
+VIssues Associated with Integrating Cloud Computing into an Organization\u2019s Existing Compliance Framework
+p10
+sa(dp11
+g7
+V/cp/courses/lesson/course/597/lesson/2/module/73
+p12
+sg9
+VImplications for Direct Cost and Cost Allocations
+p13
+sa(dp14
+g7
+V/cp/courses/lesson/course/597/lesson/3/module/73
+p15
+sg9
+VMaintaining Strategic Flexibility
+p16
+sa(dp17
+g7
+V/cp/courses/lesson/course/597/lesson/4/module/73
+p18
+sg9
+VThe Exam and 10% Off Voucher
+p19
+sa(dp20
+g7
+V/cp/quiz/start/quiz/154/module/73
+p21
+sg9
+VQuiz Cloud Risks
+p22
+sa(dp23
+g7
+V/cp/quiz/start/quiz/158/module/73
+p24
+sg9
+VQuiz Practice Exam
+p25
+sassVTechnical PerspectivesCloud Types
+p26
+(dp27
+g3
+I3
+sg4
+(lp28
+(dp29
+g7
+V/cp/courses/lesson/course/593/lesson/1/module/73
+p30
+sg9
+VDifferences Between Private and Public Clouds from a Technical Perspective
+p31
+sa(dp32
+g7
+V/cp/courses/lesson/course/593/lesson/2/module/73
+p33
+sg9
+VUnderstanding Important Techniques for Cloud Computing and Networking
+p34
+sa(dp35
+g7
+V/cp/courses/lesson/course/593/lesson/3/module/73
+p36
+sg9
+VUnderstanding the Importance of Cloud Computing in Automation and Self Service
+p37
+sa(dp38
+g7
+V/cp/courses/lesson/course/593/lesson/4/module/73
+p39
+sg9
+VUnderstanding the Importance of Cloud Computing and Federation
+p40
+sa(dp41
+g7
+V/cp/courses/lesson/course/593/lesson/5/module/73
+p42
+sg9
+VUnderstanding the Importance of Cloud Computing in the Role of Standardization
+p43
+sa(dp44
+g7
+V/cp/courses/lesson/course/593/lesson/6/module/73
+p45
+sg9
+VCloud Storage Challenges, Risks and Mitigation
+p46
+sa(dp47
+g7
+V/cp/courses/lesson/course/593/lesson/7/module/73
+p48
+sg9
+VCloud Application Performance Challenges, Risks and Mitigation
+p49
+sa(dp50
+g7
+V/cp/courses/lesson/course/593/lesson/8/module/73
+p51
+sg9
+VCloud Data Integration Challenges, Risks and Mitigation
+p52
+sa(dp53
+g7
+V/cp/courses/lesson/course/593/lesson/9/module/73
+p54
+sg9
+VCloud Security Challenges, Risks and Mitigation
+p55
+sa(dp56
+g7
+V/cp/quiz/start/quiz/151/module/73
+p57
+sg9
+VQuiz Technical perspectives
+p58
+sassVCharacteristics of Cloud Services from a Business Perspective
+p59
+(dp60
+g3
+I1
+sg4
+(lp61
+(dp62
+g7
+V/cp/courses/lesson/course/591/lesson/1/module/73
+p63
+sg9
+VCommon Terms & Definitions of Cloud Computing
+p64
+sa(dp65
+g7
+V/cp/courses/lesson/course/591/lesson/2/module/73
+p66
+sg9
+VThe Relationship Between Cloud Computing and Virtualization
+p67
+sa(dp68
+g7
+V/cp/courses/lesson/course/591/lesson/3/module/73
+p69
+sg9
+VEarly Examples of Cloud Computing
+p70
+sa(dp71
+g7
+V/cp/courses/lesson/course/591/lesson/4/module/73
+p72
+sg9
+VCommon Definitions of Cloud Computing and CommonalitiesDifferences
+p73
+sa(dp74
+g7
+V/cp/courses/lesson/course/591/lesson/5/module/73
+p75
+sg9
+VOrganizations That Might Benefit from Cloud Computing
+p76
+sa(dp77
+g7
+V/cp/courses/lesson/course/591/lesson/6/module/73
+p78
+sg9
+VOrganizations That Might Not Benefit from Cloud Computing
+p79
+sa(dp80
+g7
+V/cp/courses/lesson/course/591/lesson/7/module/73
+p81
+sg9
+VDifferences Between Types of Clouds, Including XaaS, IaaS and PaaS
+p82
+sa(dp83
+g7
+V/cp/quiz/start/quiz/149/module/73
+p84
+sg9
+VQuiz Cloud Characteristics
+p85
+sassVCourse Overview
+p86
+(dp87
+g3
+I7
+sg4
+(lp88
+(dp89
+g7
+V/cp/courses/lesson/course/346/lesson/1/module/73
+p90
+sg9
+VThe Linux Essentials ExamCertification
+p91
+sa(dp92
+g7
+V/cp/courses/lesson/course/346/lesson/2/module/73
+p93
+sg9
+VThe Linux Essentials Course Breakdown
+p94
+sassVCloud Computing and Business Value
+p95
+(dp96
+g3
+I2
+sg4
+(lp97
+(dp98
+g7
+V/cp/courses/lesson/course/592/lesson/1/module/73
+p99
+sg9
+VSimilarities and Differences Between Cloud Computing and Outsourcing
+p100
+sa(dp101
+g7
+V/cp/courses/lesson/course/592/lesson/2/module/73
+p102
+sg9
+VScalability Cloud Characteristics from a Business Perspective
+p103
+sa(dp104
+g7
+V/cp/courses/lesson/course/592/lesson/3/module/73
+p105
+sg9
+VSecurity Cloud Characteristics from a Business Perspective
+p106
+sa(dp107
+g7
+V/cp/courses/lesson/course/592/lesson/4/module/73
+p108
+sg9
+VHardware Independence Cloud Characteristics from a Business Perspective
+p109
+sa(dp110
+g7
+V/cp/courses/lesson/course/592/lesson/5/module/73
+p111
+sg9
+VVariable Cost Cloud Characteristics from a Business Perspective
+p112
+sa(dp113
+g7
+V/cp/courses/lesson/course/592/lesson/6/module/73
+p114
+sg9
+VTime to Market Cloud Characteristics from a Business Perspective
+p115
+sa(dp116
+g7
+V/cp/courses/lesson/course/592/lesson/7/module/73
+p117
+sg9
+VDistribution over the Internet and Cloud Characteristics from a Business Perspective
+p118
+sa(dp119
+g7
+V/cp/courses/lesson/course/592/lesson/8/module/73
+p120
+sg9
+VDemonstrate How the Characteristics of Cloud & Computing Enhance Business Value
+p121
+sa(dp122
+g7
+V/cp/quiz/start/quiz/150/module/73
+p123
+sg9
+VQuiz Business Value
+p124
+sassVImpact of Cloud Computing on IT Service Management
+p125
+(dp126
+g3
+I5
+sg4
+(lp127
+(dp128
+g7
+V/cp/courses/lesson/course/596/lesson/1/module/73
+p129
+sg9
+VWhat is IT Service Management (ITSM)
+p130
+sa(dp131
+g7
+V/cp/courses/lesson/course/596/lesson/2/module/73
+p132
+sg9
+VService Strategy, Service Design, Service Operation and Service Transition
+p133
+sa(dp134
+g7
+V/cp/courses/lesson/course/596/lesson/3/module/73
+p135
+sg9
+VStructured Approaches Based on ITIL for Exploring the Potential Impact of Cloud Computing Within an Organization
+p136
+sa(dp137
+g7
+V/cp/quiz/start/quiz/153/module/73
+p138
+sg9
+VQuiz Cloud Impact on business
+p139
+sassVLinux Evolution and Popular Operating Systems
+p140
+(dp141
+g3
+I8
+sg4
+(lp142
+(dp143
+g7
+V/cp/courses/lesson/course/318/lesson/1/module/73
+p144
+sg9
+VA Linux Introduction
+p145
+sa(dp146
+g7
+V/cp/courses/lesson/course/318/lesson/2/module/73
+p147
+sg9
+VOpen Source Philosophy
+p148
+sa(dp149
+g7
+V/cp/courses/lesson/course/318/lesson/3/module/73
+p150
+sg9
+VDistributions
+p151
+sa(dp152
+g7
+V/cp/courses/lesson/course/318/lesson/4/module/73
+p153
+sg9
+VEmbedded Systems
+p154
+sassVHow And Where To Install Linux
+p155
+(dp156
+g3
+I9
+sg4
+(lp157
+(dp158
+g7
+V/cp/courses/lesson/course/322/lesson/1/module/73
+p159
+sg9
+VUsing the Linux Essentials Lab Server
+p160
+sa(dp161
+g7
+V/cp/courses/lesson/course/322/lesson/2/module/73
+p162
+sg9
+VHow to Install CentOS 7 with VirtualBox
+p163
+sa(dp164
+g7
+V/cp/exercises/view/id/37/module/73
+p165
+sg9
+VExercise Man Page Walkthrough
+p166
+sa(dp167
+g7
+V/cp/exercises/view/id/36/module/73
+p168
+sg9
+VExercise Basic Command Line
+p169
+sassVSteps to Successful Adoption of Cloud Computing
+p170
+(dp171
+g3
+I4
+sg4
+(lp172
+(dp173
+g7
+V/cp/courses/lesson/course/594/lesson/1/module/73
+p174
+sg9
+VTypical Steps for a Successful Adoption of Cloud Computing Services
+p175
+sa(dp176
+g7
+V/cp/courses/lesson/course/594/lesson/2/module/73
+p177
+sg9
+VRoles and Capabilities of Cloud Computing Vendors and Vendor Dependencies
+p178
+sa(dp179
+g7
+V/cp/courses/lesson/course/594/lesson/3/module/73
+p180
+sg9
+VOrganizational Capabilities Relevant for Realizing Cloud Benefits
+p181
+sa(dp182
+g7
+V/cp/courses/lesson/course/594/lesson/4/module/73
+p183
+sg9
+VApproaches for Migrating Applications
+p184
+sa(dp185
+g7
+V/cp/quiz/start/quiz/152/module/73
+p186
+sg9
+VQuiz Cloud Adoption
+p187
+sass.

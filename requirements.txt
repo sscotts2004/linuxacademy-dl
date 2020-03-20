@@ -1,0 +1,4 @@
+requests>=2.12.1
+requests-futures>=0.9.7
+pycrypto>=2.6.1
+six>=1.10.0
